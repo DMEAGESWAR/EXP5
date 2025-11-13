@@ -29,9 +29,8 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
-REGULATION CHARACTERISTICS:
-
-V-I & REGULATION CHARACTERISTICS:
+<img width="1280" height="1009" alt="image" src="https://github.com/user-attachments/assets/b1d8211a-9031-4192-ad21-aea370e12890" />
+<img width="1280" height="1007" alt="image" src="https://github.com/user-attachments/assets/2af6baf7-135a-4a94-81e3-73ff6fd9100e" />
 
 PRECAUTIONS:
 
@@ -39,5 +38,6 @@ PRECAUTIONS:
 2. Connect voltmeter and Ammeter in correct polarities as shown in the circuit diagram.
 
 3. Do not switch ON the power supply unless you have checked the circuit connections as per the circuit diagram.
-RESULT:
+
+# RESULT:
 The Characteristics of Zener Break Diode Voltage Regulation from the Characteristics are Observed.
